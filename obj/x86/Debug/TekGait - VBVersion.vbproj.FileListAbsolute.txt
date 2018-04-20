@@ -1,0 +1,32 @@
+C:\Users\rdp1210\Documents\Professional\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\rdp1210\Documents\Professional\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\TekGait - VBVersion.vbproj.GenerateResource.Cache
+C:\Users\rdp1210\Documents\Professional\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\bin\Debug\TekGait - VBVersion.exe
+C:\Users\rdp1210\Documents\Professional\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\bin\Debug\TekGait - VBVersion.pdb
+C:\Users\rdp1210\Documents\Professional\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\bin\Debug\TekGait - VBVersion.xml
+C:\Users\rdp1210\Documents\Professional\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.frmProgress.resources
+C:\Users\rdp1210\Documents\Professional\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.frmOpenFile.resources
+C:\Users\rdp1210\Documents\Professional\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.frmAbout.resources
+C:\Users\rdp1210\Documents\Professional\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.frmCompareGraphs.resources
+C:\Users\rdp1210\Documents\Professional\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.frmGaitIndexes.resources
+C:\Users\rdp1210\Documents\Professional\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.frmGraph.resources
+C:\Users\rdp1210\Documents\Professional\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.frmSplashScreen.resources
+C:\Users\rdp1210\Documents\Professional\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\TekGait - VBVersion.exe
+C:\Users\rdp1210\Documents\Professional\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\TekGait - VBVersion.xml
+C:\Users\rdp1210\Documents\Professional\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\TekGait - VBVersion.pdb
+C:\Users\rdp1210\Documents\Professional\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.frmMdiTekGait.resources
+C:\Users\rdpva\Documents\Advanced Biomechanics\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\TekGait - VBVersion.exe
+C:\Users\rdpva\Documents\Advanced Biomechanics\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\TekGait - VBVersion.xml
+C:\Users\rdpva\Documents\Advanced Biomechanics\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\TekGait - VBVersion.pdb
+C:\Users\rdpva\Documents\Advanced Biomechanics\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\bin\Debug\TekGait - VBVersion.exe
+C:\Users\rdpva\Documents\Advanced Biomechanics\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\bin\Debug\TekGait - VBVersion.pdb
+C:\Users\rdpva\Documents\Advanced Biomechanics\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\bin\Debug\TekGait - VBVersion.xml
+C:\Users\rdpva\Documents\Advanced Biomechanics\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.frmProgress.resources
+C:\Users\rdpva\Documents\Advanced Biomechanics\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.frmMdiTekGait.resources
+C:\Users\rdpva\Documents\Advanced Biomechanics\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\rdpva\Documents\Advanced Biomechanics\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.frmOpenFile.resources
+C:\Users\rdpva\Documents\Advanced Biomechanics\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.frmAbout.resources
+C:\Users\rdpva\Documents\Advanced Biomechanics\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.frmCompareGraphs.resources
+C:\Users\rdpva\Documents\Advanced Biomechanics\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.frmGaitIndexes.resources
+C:\Users\rdpva\Documents\Advanced Biomechanics\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.frmGraph.resources
+C:\Users\rdpva\Documents\Advanced Biomechanics\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\WindowsApplication1.frmSplashScreen.resources
+C:\Users\rdpva\Documents\Advanced Biomechanics\Tekscan\Tekgait\TekGait - VBVersion\TekGait - VBVersion\obj\x86\Debug\TekGait - VBVersion.vbproj.GenerateResource.Cache
